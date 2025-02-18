@@ -286,11 +286,24 @@ Las listas tienen un almacenamiento dinamico esto significa que podemos sumar y 
 
 ### Declaracion 
 
+```
+List<int> listaEnteros = new List<int>(); // Lista de enteros
+List<string> listaCadenas = new List<string>(); // Lista de cadenas
 
+```
 
+## a) Añadir Elementos (Add):
 
+con Add se añade un nuevo elemento a la lista 
 
+```
+listaEnteros.Add(10); // Añade 10
+listaEnteros.Add(20); // Añade 20
+listaEnteros.Add(30); // Añade 30
 
+```
+
+## b) Ac
 
 
 
